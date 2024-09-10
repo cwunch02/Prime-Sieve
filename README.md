@@ -10,5 +10,4 @@ Feel free to try it out by running the make file by using:
 $ make
 
 $ ./primes M
-
 ```
